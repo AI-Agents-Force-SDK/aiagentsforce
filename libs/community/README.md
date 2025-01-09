@@ -11,7 +11,7 @@ pip install aiagentsforce-community
 
 ## What is it?
 
-AI Agents Force Community contains third-party integrations that implement the base interfaces defined in AI Agents Force Core, making them ready-to-use in any AI Agents Force application.
+AI Agents Force Community is a collection of ready-to-use third-party integrations built on top of AI Agents Force Core interfaces. These integrations extend the core functionality and can be easily incorporated into any AI Agents Force project.
 
 For full documentation see the [API reference](https://docs.aiagentsforce.com/api_reference/community/index.html).
 
