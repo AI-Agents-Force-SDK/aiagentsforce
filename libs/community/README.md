@@ -26,7 +26,14 @@ Browse our [API Reference](https://docs.aiagentsforce.com/api_reference/communit
 
 ## Version Info
 
-Current: `0.0.x`
+We enthusiastically welcome contributions from the community! Whether you're interested in:
+- Adding new features
+- Improving existing infrastructure
+- Enhancing documentation
+- Fixing bugs
+- Suggesting improvements
+
+Your input helps make AI Agents Force better for everyone. 
 
 All changes trigger patch version updates.
 
