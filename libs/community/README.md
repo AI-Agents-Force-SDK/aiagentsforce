@@ -3,26 +3,35 @@
 [![Downloads](https://static.pepy.tech/badge/aiagentsforce_community/month)](https://pepy.tech/project/aiagentsforce_community)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Quick Install
+## Installation
 
 ```bash
 pip install aiagentsforce-community
 ```
 
-## What is it?
+## Overview
 
-AI Agents Force Community contains third-party integrations that implement the base interfaces defined in AI Agents Force Core, making them ready-to-use in any AI Agents Force application.
+AI Agents Force Community provides ready-to-use integrations with popular third-party services and tools. These implementations follow the interfaces defined in AI Agents Force Core.
 
-For full documentation see the [API reference](https://docs.aiagentsforce.com/api_reference/community/index.html).
+## Features
 
-## 📕 Releases & Versioning
+- Verified third-party integrations
+- Production-tested implementations
+- Regular updates and maintenance
+- Community-driven development
 
-`aiagentsforce-community` is currently on version `0.0.x`
+## Documentation
 
-All changes will be accompanied by a patch version increase.
+Browse our [API Reference](https://docs.aiagentsforce.com/api_reference/community/index.html) for detailed documentation.
 
-## 💁 Contributing
+## Version Info
 
-As an open-source project in a rapidly developing field, we are extremely open to contributions, whether it be in the form of a new feature, improved infrastructure, or better documentation.
+Current: `0.0.x`
 
-For detailed information on how to contribute, see the [Contributing Guide](https://docs.aiagentsforce.com/contributing/).
+All changes trigger patch version updates.
+
+## Contributing
+
+Join our open-source community! Whether you're adding features, improving docs, or fixing bugs, we welcome your contributions.
+
+See our [Contributing Guide](https://docs.aiagentsforce.com/contributing/) to get started.
